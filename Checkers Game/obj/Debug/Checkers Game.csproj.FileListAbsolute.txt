@@ -1,0 +1,9 @@
+C:\Users\dekel\source\repos\Checkers Game\Checkers Game\obj\Debug\Checkers Game.csproj.AssemblyReference.cache
+C:\Users\dekel\source\repos\Checkers Game\Checkers Game\obj\Debug\Checkers Game.csproj.CoreCompileInputs.cache
+C:\Users\dekel\source\repos\Checkers Game\Checkers Game\bin\Debug\Checkers Game.exe.config
+C:\Users\dekel\source\repos\Checkers Game\Checkers Game\bin\Debug\Checkers Game.exe
+C:\Users\dekel\source\repos\Checkers Game\Checkers Game\bin\Debug\Checkers Game.pdb
+C:\Users\dekel\source\repos\Checkers Game\Checkers Game\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\dekel\source\repos\Checkers Game\Checkers Game\obj\Debug\Checkers Game.csproj.CopyComplete
+C:\Users\dekel\source\repos\Checkers Game\Checkers Game\obj\Debug\Checkers Game.exe
+C:\Users\dekel\source\repos\Checkers Game\Checkers Game\obj\Debug\Checkers Game.pdb
